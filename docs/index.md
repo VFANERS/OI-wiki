@@ -2,7 +2,7 @@ disqus:
 pagetime:
 title: OI Wiki
 
-# 欢迎来到 **OI Wiki**！[![GitHub watchers](https://img.shields.io/github/watchers/OI-wiki/OI-wiki.svg?style=social&label=Watch)](https://github.com/OI-wiki/OI-wiki)  [![GitHub stars](https://img.shields.io/github/stars/OI-wiki/OI-wiki.svg?style=social&label=Stars)](https://github.com/OI-wiki/OI-wiki)
+# 欢迎来到 **BZOJ OI Wiki**！
 
 [![Word Art](https://cdn.jsdelivr.net/npm/oicdn@0.0.1/wordArt.webp)](https://github.com/OI-wiki/OI-wiki)
 
@@ -93,7 +93,3 @@ title: OI Wiki
   document.getElementsByClassName('md-nav__title')[1].click()
 </script>
 
-<div align="center">
-<a href="https://www.hulu.com/" target="_blank"><img height="40px" src="https://cdn.jsdelivr.net/npm/oicdn@0.0.1/hulu-black.png"></a>
-<a href="https://www.netlify.com/" target="_blank" style="margin-left: 60px;"><img height="40px" src="https://cdn.jsdelivr.net/npm/oicdn@0.0.2/netlify.png"></a>
-</div>

@@ -6,8 +6,8 @@ site_url: https://oi-wiki.org
 strict: false
 
 # Repository
-repo_name: 'OI-wiki/OI-wiki'
-repo_url: 'https://github.com/OI-wiki/OI-wiki'
+repo_name: 'VFANERS/OI-wiki'
+repo_url: 'https://github.com/VFANERS/OI-wiki'
 edit_uri: 'https://oi-wiki.org/edit-landing/?ref='
 
 # Copyright
