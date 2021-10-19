@@ -25,7 +25,6 @@ nav:
     - 格式手册: intro/format.md
     - F.A.Q.: intro/faq.md
     - 用 Docker 部署 OI Wiki: intro/docker-deploy.md
-    - 致谢: intro/thanks.md
   - 比赛相关:
     - 比赛相关简介: contest/index.md
     - 赛事:
@@ -476,8 +475,6 @@ nav:
     - RMQ: topic/rmq.md
     - 并查集应用: topic/dsu-app.md
     - 括号序列: topic/bracket.md
-  - 关于 Hulu:
-    -  关于 Hulu: intro/hulu.md
 
 # Theme
 theme:
